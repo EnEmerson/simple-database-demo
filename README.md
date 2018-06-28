@@ -2,7 +2,7 @@
 
 ---
 
-### Description: This application is meant to store the names and ages of students. The list of students can then be returned for viewing and ordered.
+### Description: This application is meant to store the names and ages of students. The list of students can then be returned, viewed, and ordered.
 
 ---
 
@@ -58,7 +58,7 @@ namespace Exam1Retry
 
 ---
 
-## Databse code
+## Database code
 
 ```C#
 
