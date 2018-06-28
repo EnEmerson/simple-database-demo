@@ -25,3 +25,12 @@ D:\Visual Studio 2013\visual programming 2\everything before assignment 2\Exam 1
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\Exam 1 Practice Retry\Exam1Retry\Exam1Retry\obj\Debug\Exam1Retry.Form1.resources
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\Exam 1 Practice Retry\Exam1Retry\Exam1Retry\obj\Debug\Exam1Retry.Properties.Resources.resources
 D:\Visual Studio 2013\visual programming 2\everything before assignment 2\Exam 1 Practice Retry\Exam1Retry\Exam1Retry\obj\Debug\Exam1Retry.csproj.GenerateResource.Cache
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\bin\Debug\Exam1Retry.exe.config
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.exe
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.pdb
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\bin\Debug\Exam1Retry.exe
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\bin\Debug\Exam1Retry.pdb
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.csprojResolveAssemblyReference.cache
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.Form1.resources
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.Properties.Resources.resources
+C:\Users\En\Desktop\repos\Personal\simple-database-demo\Exam1Retry\obj\Debug\Exam1Retry.csproj.GenerateResource.Cache
